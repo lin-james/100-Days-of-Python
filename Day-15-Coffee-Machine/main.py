@@ -71,4 +71,4 @@ while is_on:
         print(f'Coffee: {resources["coffee"]}g')
         print(f'Money: ${money}')
     else:
-        print("bad input")
+        print("🖕")
